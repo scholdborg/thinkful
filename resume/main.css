@@ -1,0 +1,10 @@
+div {
+  background-color: #00bcb4;
+  border: 5px solid black;
+  padding: 35px;
+  color: white;
+}
+
+img {
+	float: right;
+}
