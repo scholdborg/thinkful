@@ -1,0 +1,79 @@
+body {
+
+	background-color: white;
+	margin-left: 100px;
+}
+
+nav {
+	background-color: #F2F3F4;
+	position: fixed;
+	padding-left: 20px;
+	left: 0;
+	right: 0;
+}
+
+nav .container {
+	max-width: 800px;
+	margin: auto;
+}
+
+
+nav ul {
+	margin-right: 50px;
+	position: relative;
+	text-align: right;
+
+}
+
+nav li {
+  	display: inline-block;
+  	text-align: right;
+}
+
+nav li a:link {
+	color: purple;
+}
+
+td {
+	border: solid black 1px;
+}
+
+main {
+	max-width: 800px;
+	margin: auto;
+}
+
+.searchform {
+	padding-top: 150px;
+}
+
+.searchform .magnifying-glass {
+	width: 40px;
+	vertical-align: middle;
+	border: solid black 1px;
+	margin-left: 5px;
+}
+
+.options {
+    table-layout: fixed;
+    width: 250px; 
+    margin-top: 15px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.adspace {
+	color: grey;
+	font-size: 20px;
+
+}
+
+.adspace ul {
+	list-style: none;
+    padding-left: 0;
+}
+
+.adspace li {
+	margin: 5px 0;
+}
+
