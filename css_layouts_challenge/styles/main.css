@@ -1,7 +1,7 @@
 body {
-
 	background-color: white;
 	margin-left: 100px;
+	margin: 0;
 }
 
 nav {
@@ -12,9 +12,8 @@ nav {
 	right: 0;
 }
 
-nav .container {
-	max-width: 800px;
-	margin: auto;
+nav h1 {
+	float: left;
 }
 
 
@@ -28,10 +27,13 @@ nav ul {
 nav li {
   	display: inline-block;
   	text-align: right;
+  	margin-right: 5%;
 }
 
 nav li a:link {
 	color: purple;
+	text-decoration: none;
+	float: right;
 }
 
 td {
@@ -39,7 +41,7 @@ td {
 }
 
 main {
-	max-width: 800px;
+	padding-left: 200px;
 	margin: auto;
 }
 
@@ -47,11 +49,16 @@ main {
 	padding-top: 150px;
 }
 
+.searchform input {
+    width: 300px;
+    height: 30px;
+}
+
 .searchform .magnifying-glass {
-	width: 40px;
+	width: 30px;
 	vertical-align: middle;
 	border: solid black 1px;
-	margin-left: 5px;
+	margin-left: 3px;
 }
 
 .options {
