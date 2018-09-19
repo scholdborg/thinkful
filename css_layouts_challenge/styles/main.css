@@ -3,19 +3,7 @@
    License: none (public domain)
 */
 
-html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-a, abbr, acronym, address, big, cite, code,
-del, dfn, em, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var,
-b, u, i, center,
-dl, dt, dd, ol, ul, li,
-fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
-menu, nav, output, ruby, section, summary,
-time, mark, audio, video {
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
 	margin: 0;
 	padding: 0;
 	border: 0;
@@ -24,8 +12,8 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
-footer, header, hgroup, menu, nav, section {
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 body {
@@ -37,8 +25,7 @@ ol, ul {
 blockquote, q {
 	quotes: none;
 }
-blockquote:before, blockquote:after,
-q:before, q:after {
+blockquote:before, blockquote:after, q:before, q:after {
 	content: '';
 	content: none;
 }
@@ -46,15 +33,11 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-
-## my css ##
-
-body {
+## my css ## body {
 	background-color: white;
 	margin-left: 100px;
 	margin: 0;
 }
-
 nav {
 	background-color: #F2F3F4;
 	position: fixed;
@@ -62,61 +45,46 @@ nav {
 	left: 0;
 	right: 0;
 	height: 80px;
-	}
-
+}
 nav h1 {
 	padding-top: 25px;
 	float: left;
 	font-size: 24px;
 	font-weight: bold;
 }
-
-
 nav ul {
 	margin-right: 50px;
 	position: relative;
 	text-align: right;
-
 }
-
 nav li {
-  	display: inline-block;
-  	text-align: right;
-  	margin-right: 1%;
+	display: inline-block;
+	text-align: right;
+	margin-right: 1%;
 }
-
 nav li a:link {
 	color: purple;
 	text-decoration: none;
 	float: right;
 }
-
-td {
-	border: solid black 1px;
-}
-
 main {
 	padding-left: 200px;
 	margin: auto;
 }
-
 .searchform {
 	padding-top: 150px;
 }
-
 .searchform input {
-    width: 500px;
-    height: 30px;
+	width: 500px;
+	height: 30px;
 }
-
 .searchform .magnifying-glass {
 	width: 30px;
 	vertical-align: middle;
 	border: solid black 1px;
 	margin-left: 3px;
 }
-
-.button {
+.prevnextbuttons {
 	margin-top: 30px;
 	background-color: white;
 	border: solid 1px;
@@ -127,28 +95,14 @@ main {
 	padding: 5px 10px;
 	text-decoration: none;
 }
-
-.options {
-    table-layout: fixed;
-    width: 250px; 
-    margin-top: 15px;
-    text-align: center;
-    padding-top: 10px;
-}
-
 .adspace {
 	padding-top: 10px;
 	color: grey;
 	font-size: 20px;
-
 }
-
 .adspace ul {
 	list-style: none;
-    padding-left: 0;
+	padding-left: 0;
 }
-
 .adspace li {
 	margin: 5px 0;
-}
-
