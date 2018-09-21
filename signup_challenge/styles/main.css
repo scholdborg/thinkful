@@ -1,0 +1,48 @@
+body {
+	background-color: #B1C7EE;
+	margin: auto;
+	max-width: 960px;
+	text-align: center;
+}
+
+.toplogo img {
+	padding-top: 100px;
+	height: 35px;
+	margin: auto;
+}
+
+
+.signupcontainer {
+	background-color: :white;
+	border: black solid 1px
+	width: 400px;
+	padding-left: 40px;
+	padding-right: 40px;
+}
+
+.signupcontainer .signupbutton {
+	width: 320px;
+	border: 2px;
+	padding: 15px;
+	
+}
+
+.alredysignedup a:link {
+	color: white;
+
+}
+
+.alredysignedup a:visited {
+	color: white;
+
+}
+
+.alredysignedup a:hover {
+	color: white;
+
+}
+
+.alredysignedup a:active {
+	color: white;
+
+}
