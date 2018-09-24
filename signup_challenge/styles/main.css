@@ -1,48 +1,101 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after, q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
 body {
 	background-color: #B1C7EE;
-	margin: auto;
-	max-width: 960px;
-	text-align: center;
+	font-family: "Roboto", helvetica, sans-serif;
+	padding-top: 50px;
 }
-
-.toplogo img {
-	padding-top: 100px;
+body * {
+	box-sizing: border-box;
+}
+.toplogo {
+	display: block;
 	height: 35px;
 	margin: auto;
+	margin-bottom: 30px;
 }
-
-
 .signupcontainer {
-	background-color: :white;
-	border: black solid 1px
+	background-color: white;
+	border: black solid 1px;
 	width: 400px;
-	padding-left: 40px;
-	padding-right: 40px;
+	padding: 40px;
+	font-size: 20px;
+	text-align: left;
+	margin-left: auto;
+	margin-right: auto;
 }
-
-.signupcontainer .signupbutton {
+.signupcontainer h1 {
+	font-size: 30px;
+	text-align: center;
+	font-weight: bold;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.signupcontainer fieldset input {
 	width: 320px;
 	border: 2px;
 	padding: 15px;
-	
+	border: 2px solid;
+	border-color: grey;
+	border-radius: 2px;
+	height: auto;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	font-size: 20px;
 }
-
-.alredysignedup a:link {
+.signupcontainer fieldset button {
+	background-color: #4CAF50;
 	color: white;
-
+	font-size: 16px;
+	font-weight: bold;
+	width: 320px;
+	border: 2px;
+	padding: 15px;
+	margin-top: 30px;
 }
-
-.alredysignedup a:visited {
+.alreadysignedup {
+	display: block;
 	color: white;
-
+	text-align: center;
+	font-size: 20px;
+	padding-top: 30px;
+	font-weight: bold;
 }
-
-.alredysignedup a:hover {
+.alreadysignedup a {
 	color: white;
-
-}
-
-.alredysignedup a:active {
-	color: white;
-
+	display: inline-block;
+	font-weight: bold;
 }
