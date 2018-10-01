@@ -1,0 +1,13 @@
+ .topmenu {
+  background-color: orange ;
+
+ }
+
+ .character { 
+  width: 100%; 
+}
+
+.imagebox {
+    border: 1px;
+    margin-bottom: 20px;
+}
