@@ -1,5 +1,5 @@
  .topmenu {
-  background-color: orange ;
+ 	background-color: orange;
  }
  .topmenu h1 {
  	font-size: 30px;
@@ -7,17 +7,13 @@
  .topmenu h3 {
  	font-size: 16px;
  }
- .character { 
-  width: 100%; 
-}
-.imagebox {
-    border: 1px;
-    margin-bottom: 20px;
-}
-.card-info {
-    border: 1px;
-    border-style: solid;
-    border-color: grey;
-    padding-left: 15px;
-}
-
+ .character {
+ 	width: 100%;
+ }
+ .card-info {
+ 	border: 1px;
+ 	border-style: solid;
+ 	border-color: grey;
+ 	padding-left: 15px;
+ 	border-radius: 15px;
+ }
