@@ -105,19 +105,6 @@ body{
     margin-top: 10px;
 }
 
-.login input[type=text]{
-    width: 250px;
-    height: 30px;
-    background: transparent;
-    border: 1px solid rgba(255,255,255,0.6);
-    border-radius: 2px;
-    color: #fff;
-    font-family: Montserrat, Arial, sans-serif;
-    font-size: 16px;
-    font-weight: 400;
-    padding: 4px;
-}
-
 .login input[type=password]{
     width: 250px;
     height: 30px;
@@ -190,7 +177,6 @@ p, [class^="hvr-"] {
     user-select: none;
     -webkit-appearance: none;
     outline: 0;
-    border: solid 0px;
     border-radius: 7px;
     font-size: 1rem;
     font-weight: bold;
