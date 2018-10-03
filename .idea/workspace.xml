@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2846539-dd88-4b4a-9139-95a7c5b5543f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/additional-training/button-samples/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/additional-training/button-samples/styling/button-samples.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/additional-training/button-samples/styling/grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/additional-training/login-page/grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/additional-training/login-page/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/additional-training/login-page/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/additional-training/social-media-buttons/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/additional-training/social-media-buttons/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/additional-training/login-page/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/additional-training/login-page/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/additional-training/login-page/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/additional-training/login-page/main.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,46 +24,46 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="12" />
+          <entry key="css" value="13" />
           <entry key="html" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="12" />
+          <entry key="CSS" value="13" />
           <entry key="HTML" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="883" />
-          <entry key="html" value="612" />
+          <entry key="css" value="1335" />
+          <entry key="html" value="696" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="883" />
-          <entry key="HTML" value="612" />
+          <entry key="CSS" value="1335" />
+          <entry key="HTML" value="696" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/additional-training/login-page/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="150">
+              <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/additional-training/login-page/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="102" selection-start-line="102" selection-end-line="102" />
+            <state relative-caret-position="465">
+              <caret line="40" column="4" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -77,8 +71,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/additional-training/login-page/grid.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+            <state relative-caret-position="566">
+              <caret line="48" column="22" lean-forward="true" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -100,6 +94,7 @@
       <find>name</find>
       <find>span</find>
       <find>font-family</find>
+      <find>moz</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -115,9 +110,9 @@
         <option value="$PROJECT_DIR$/additional-training/button-samples/index.html" />
         <option value="$PROJECT_DIR$/additional-training/button-samples/styling/button-samples.css" />
         <option value="$PROJECT_DIR$/additional-training/social-media-buttons/index.html" />
+        <option value="$PROJECT_DIR$/additional-training/login-page/index.html" />
         <option value="$PROJECT_DIR$/additional-training/login-page/grid.css" />
         <option value="$PROJECT_DIR$/additional-training/login-page/main.css" />
-        <option value="$PROJECT_DIR$/additional-training/login-page/index.html" />
       </list>
     </option>
   </component>
@@ -154,6 +149,17 @@
             </path>
             <path>
               <item name="thinkful" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkful" type="462c0819:PsiDirectoryNode" />
+              <item name="star-wars-responsive-challenge" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkful" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkful" type="462c0819:PsiDirectoryNode" />
+              <item name="star-wars-responsive-challenge" type="462c0819:PsiDirectoryNode" />
+              <item name="styling" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkful" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -167,7 +173,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538492768102" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538495235620" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -226,24 +232,25 @@
       <workItem from="1535374549288" duration="96000" />
       <workItem from="1537262869758" duration="18000" />
       <workItem from="1537430052677" duration="1446000" />
-      <workItem from="1538470701620" duration="16870000" />
+      <workItem from="1538470701620" duration="19146000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19061000" />
+    <option name="totallyTimeSpent" value="21337000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1979" y="0" width="1861" height="1200" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2584022" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2584022" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Inspection Results" visible="true" weight="0.32931355" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -254,7 +261,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32931355" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32931355" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32931355" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -330,16 +337,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/star-wars-responsive-challenge/styling/main.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/additional-training/login-page/grid.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/additional-training/social-media-buttons/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -354,17 +351,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/additional-training/login-page/main.css">
+    <entry file="file://$PROJECT_DIR$/star-wars-responsive-challenge/styling/main.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/additional-training/login-page/grid.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="102" selection-start-line="102" selection-end-line="102" />
+        <state relative-caret-position="566">
+          <caret line="48" column="22" lean-forward="true" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/additional-training/login-page/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="150">
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/additional-training/login-page/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="40" column="4" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="4" />
         </state>
       </provider>
     </entry>
